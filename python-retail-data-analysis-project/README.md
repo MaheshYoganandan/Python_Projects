@@ -1,7 +1,7 @@
 # Ecommerce Dataset Exploratory Data Analysis (EDA)
 ## Project Overview
 
-In this project, I performed an exploratory data analysis (EDA) on an ecommerce dataset obtained from Kaggle. The goal of this project was to gain insights into the dataset, identify patterns and relationships, and visualize the findings using various visualization libraries.
+In this project, I performed an exploratory data analysis (EDA) on an ecommerce dataset obtained from Kaggle. The goal of this project was to gain insights into the dataset, identify patterns and relationships, and visualize the findings using various visualization libraries. [Click Here](https://github.com/MaheshYoganandan/Python_Projects/blob/main/python-retail-data-analysis-project/main.ipynb) to project file.
 
 ## Technologies Used
 
@@ -14,7 +14,7 @@ In this project, I performed an exploratory data analysis (EDA) on an ecommerce 
 
 ## Dataset
 
-The ecommerce dataset used in this project contains [insert number] rows and [insert number] columns. The dataset includes information about customer demographics, purchase history, product details, and more.
+The ecommerce dataset used in this project contains 300000+ rows and 30 columns. The dataset includes information about customer demographics, purchase history, product details, and more.
 
 ## Data Cleaning
 
@@ -152,9 +152,5 @@ This project demonstrated the power of exploratory data analysis in uncovering h
 * Pricing strategy and revenue optimization
 * Identifying new business opportunities and market trends
 * Improving customer satisfaction and loyalty
-* Enhancing user experience and interface design
 * Informing business decisions with data-driven insights
-* Measuring and evaluating the effectiveness of marketing campaigns
-* Identifying and mitigating potential risks and challenges
-* Optimizing resources and budget allocation
-* Improving operational efficiency and productivity
+
