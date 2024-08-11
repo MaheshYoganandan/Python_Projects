@@ -1,5 +1,3 @@
-Here is the rearranged Markdown code with the added details:
-MarkDown
 # Ecommerce Dataset Exploratory Data Analysis (EDA)
 ## Project Overview
 
