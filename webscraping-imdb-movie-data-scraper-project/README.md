@@ -82,6 +82,6 @@ This code can be used to extract more than **100000+** movies data by simply adj
 
 ## Support
 
-If you like my project, please give it a star! You can also connect with me on [LinkedIn](link_to_your_linkedin_profile) to discuss more about this project or potential collaborations.
+If you like my project, please give it a star! You can also connect with me on [LinkedIn](https://www.linkedin.com/in/maheshyoganandan/) to discuss more about this project or potential collaborations.
 
 Thank you for visiting my project!
