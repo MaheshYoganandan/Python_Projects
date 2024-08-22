@@ -1,0 +1,541 @@
+listing_id,city,neighbourhood,property_type,total_sqft,no_of_rooms,furnish,sale_type,status,price,price (in 'k'),price_per_sqft
+71632357,Chennai,Kelambakkam,Apartment,997,2 BHK,Unfurnished,New Property,Ready to Move,₹ 39.9 Lac,3990,4000
+73795355,Chennai,Mudichur,Builder Floor,873,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 50.6 Lac,5060,5800
+72552613,Chennai,Kundrathur,Builder Floor,517,1 BHK,Semi-Furnished,New Property,Ready to Move,₹ 27.4 Lac,2740,5300
+74193103,Chennai,Chettipunyam,Apartment,616,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 29.2 Lac,2920,4747
+73511737,Chennai,Kovur,Apartment,733,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 47.7 Lac,4770,6504
+73549773,Chennai,Muthukadu,Apartment,723,1 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 70 Lac,7000,9682
+72903823,Chennai,Siruseri,Apartment,911,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 55.2 Lac,5520,6059
+74276021,Chennai,Akkarai,Villa,1807,4 BHK,Unfurnished,New Property,Ready to Move,₹ 2.39 Cr,23900,10605
+74270959,Chennai,Kovur,Apartment,1024,3 BHK,Unfurnished,New Property,Ready to Move,₹ 63.9 Lac,6390,6243
+74334347,Chennai,Nagar,Apartment,622,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.40 Cr,24000,15957
+73917369,Chennai,Korattur,Apartment,860,2 BHK,Unfurnished,New Property,Ready to Move,₹ 70.8 Lac,7080,6583
+74028165,Chennai,Ottiambakkam,Villa,1843,3 BHK,Unfurnished,New Property,Ready to Move,₹ 1.27 Cr,12700,6900
+72316429,Chennai,Tondiarpet,Apartment,1272,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 78.9 Lac,7890,6199
+74126529,Chennai,Paruthippattu,Apartment,668,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 54.8 Lac,5480,5499
+71959151,Chennai,Perungudi,Apartment,1723,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.65 Cr,16500,9576
+73767909,Chennai,Adambakkam,Apartment,1306,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.29 Cr,12900,9900
+71820423,Chennai,Perambur,Apartment,1338,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.07 Cr,10700,7997
+73553015,Chennai,Nagar,Apartment,2982,4 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 5.51 Cr,55100,18500
+74127821,Chennai,Thirumullaivoyal,Apartment,578,1 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 27.7 Lac,2770,4799
+72561255,Chennai,Medavakkam,Apartment,273,1 BHK,Semi-Furnished,New Property,Ready to Move,₹ 23 Lac,2300,6069
+73554597,Chennai,Velachery,Apartment,1540,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.33 Cr,23300,15193
+73739501,Chennai,Maduravoyal,Apartment,817,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 61.9 Lac,6190,7574
+72840197,Chennai,Perumbakkam,Apartment,1221,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 83.8 Lac,8380,6865
+73958139,Chennai,Nagar,Builder Floor,790,2 BHK,Unfurnished,New Property,Ready to Move,₹ 1.74 Cr,17400,16880
+73970765,Chennai,Valasaravakkam,Apartment,1733,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.70 Cr,17000,9810
+72805895,Chennai,Medavakkam,Apartment,1012,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 73.9 Lac,7390,7302
+73970897,Chennai,Pallikaranai,Apartment,694,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 87 Lac,8700,9405
+73968635,Chennai,Karapakkam,Apartment,626,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 46.9 Lac,4690,7495
+73390167,Chennai,Medavakkam,Builder Floor,1184,2 BHK,Unfurnished,New Property,Ready to Move,₹ 86 Lac,8600,7264
+73469843,Chennai,Chennai,Apartment,885,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 62 Lac,6200,7006
+74078091,Chennai,Triplicane,Apartment,1570,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.61 Cr,26100,16662
+63231003,Chennai,Koil,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 31 Lac,3100,3100
+72152609,Chennai,Sholinganallur,Apartment,1004,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 55 Lac,5500,5478
+67219657,Chennai,Pallavaram,Builder Floor,998,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 66.9 Lac,6690,6700
+72802387,Chennai,Nagar,Apartment,2144,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 3.53 Cr,35300,16465
+64509217,Chennai,Sithalapakkam,Apartment,1370,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 75.2 Lac,7520,5491
+74232497,Chennai,Kottivakkam,Apartment,1313,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.74 Cr,17400,13252
+70267125,Chennai,Chromepet,Builder Floor,1225,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 89.4 Lac,8940,7300
+72707609,Chennai,Anakaputhur,Apartment,1145,3 BHK,Unfurnished,New Property,Ready to Move,₹ 67.2 Lac,6720,5870
+71135527,Chennai,Nagar,Builder Floor,882,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.58 Cr,15800,18000
+73544791,Chennai,Thiruporur,Villa,541,1 BHK,Unfurnished,New Property,Ready to Move,₹ 45 Lac,4500,8318
+63926391,Chennai,Polachery,Apartment,840,2 BHK,Unfurnished,New Property,Ready to Move,₹ 39.7 Lac,3970,4730
+73043817,Chennai,Medavakkam,Apartment,1129,2 BHK,Unfurnished,New Property,Ready to Move,₹ 71.1 Lac,7109,6299
+73512721,Chennai,Kanathur,Villa,4050,5 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.60 Cr,26000,6420
+70420267,Chennai,Madhanandapuram,Apartment,1326,3 BHK,Unfurnished,New Property,Ready to Move,₹ 82.2 Lac,8220,6199
+73668979,Chennai,Kelambakkam,Apartment,1301,3 BHK,Unfurnished,New Property,Ready to Move,₹ 51.5 Lac,5150,3955
+73868695,Chennai,Hills,Plot/Land,600,n/a,n/a,n/a,n/a,₹ 7.1 Lac,710,1190
+73869581,Chennai,Kovur,Builder Floor,992,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 54.6 Lac,5460,5499
+71395691,Chennai,Thiruverkadu,Plot/Land,1019,n/a,n/a,n/a,n/a,₹ 56 Lac,5600,5499
+70515605,Chennai,Thirumudivakkam,Apartment,1649,3 BHK,Unfurnished,New Property,Ready to Move,₹ 85 Lac,8500,5155
+74022453,Chennai,Palur,Plot/Land,1099,n/a,n/a,n/a,n/a,₹ 33 Lac,3300,3000
+68658865,Chennai,Thirumazhisai,Plot/Land,1651,n/a,n/a,n/a,n/a,₹ 59.4 Lac,5940,3600
+73483659,Chennai,Vandalur,Plot/Land,708,n/a,n/a,n/a,n/a,₹ 42.5 Lac,4250,6000
+73990049,Chennai,Tambaram,Apartment,1072,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 85.7 Lac,8570,7990
+73388633,Chennai,Chennai,Apartment,910,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 60 Lac,6000,6593
+66270841,Chennai,Vettuvankeni,Villa,2805,4 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 5.34 Cr,53400,15000
+69949829,Chennai,Porur,Apartment,1179,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 88.4 Lac,8840,7500
+74126103,Chennai,Sholinganallur,Villa,1354,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.24 Cr,12400,9204
+69836007,Chennai,Ambattur,Villa,2547,5 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.83 Cr,18300,7185
+67277811,Chennai,Ayanambakkam,Builder Floor,1652,3 BHK,Unfurnished,New Property,Ready to Move,₹ 98.3 Lac,9830,5950
+73570957,Chennai,Thirumazhisai,Apartment,766,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 53.3 Lac,5330,5000
+71691667,Chennai,Siruseri,Villa,1895,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.47 Cr,14700,7757
+73648389,Chennai,Thirumazhisai,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 46.7 Lac,4670,3888
+72184237,Chennai,Kuvathur,Plot/Land,718,n/a,n/a,n/a,n/a,₹ 9.3 Lac,930,1299
+72810891,Chennai,Road,Builder Floor,750,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 61.9 Lac,6190,7054
+73546487,Chennai,Manapakkam,Apartment,1159,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.06 Cr,20600,12500
+69140857,Chennai,Perungudi,Builder Floor,780,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 67.2 Lac,6720,7000
+72384783,Chennai,Kattupakkam,Apartment,983,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 72 Lac,7200,6159
+72976379,Chennai,Thirumazhisai,Apartment,575,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 35 Lac,3500,6087
+72980605,Chennai,Thaiyur,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 26 Lac,2600,2599
+72707697,Chennai,Pallikaranai,Villa,1884,4 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2 Cr,20000,7965
+73654681,Chennai,Road,Apartment,3750,4 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 10 Cr,100000,26667
+72142721,Chennai,Tambaram,Apartment,740,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 44.8 Lac,4480,4449
+72301791,Chennai,Tiruvottiyur,Apartment,1031,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 89 Lac,8900,8632
+74195945,Chennai,Extension,Apartment,917,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 55.1 Lac,5510,6009
+74158807,Chennai,Pallikaranai,Apartment,676,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 63.4 Lac,6340,7000
+73596325,Chennai,Medavakkam,Apartment,1012,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 67 Lac,6700,6186
+73259629,Chennai,Ayanambakkam,Builder Floor,713,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 58.5 Lac,5850,6088
+74193885,Chennai,Madhavaram,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 1.28 Cr,12800,7111
+73690315,Chennai,Ambattur,Apartment,810,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 60.3 Lac,6030,6700
+72497485,Chennai,Periyapalayam,House,680,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 25.5 Lac,2550,3643
+68501119,Chennai,East,Apartment,1180,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 3.89 Cr,38900,21107
+74058825,Chennai,Porur,Apartment,1165,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 89 Lac,8900,7639
+74121815,Chennai,Medavakkam,Apartment,850,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 72.5 Lac,7250,7250
+72519961,Chennai,Panaiyur,Villa,2066,4 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.70 Cr,27000,13069
+73310005,Chennai,Rajakilpakkam,Apartment,877,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 67.2 Lac,6720,5500
+72698501,Chennai,Pallikaranai,Apartment,984,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 90 Lac,9000,7503
+71835911,Chennai,Hills,Plot/Land,900,n/a,n/a,n/a,n/a,₹ 28.2 Lac,2820,3132
+74067179,Chennai,Karapakkam,Apartment,1089,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 81.6 Lac,8159,7495
+74217569,Chennai,Medavakkam,Apartment,989,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 78.7 Lac,7870,7962
+73274893,Chennai,Medavakkam,Apartment,1471,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 92.7 Lac,9270,6300
+72553289,Chennai,Pudupakkam,Plot/Land,750,n/a,n/a,n/a,n/a,₹ 37.5 Lac,3750,4999
+73558369,Chennai,Ayapakkam,Apartment,890,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 42.7 Lac,4270,4800
+69084305,Chennai,Kovur,Plot/Land,805,n/a,n/a,n/a,n/a,₹ 39.4 Lac,3940,4894
+71802277,Chennai,Road,Plot/Land,900,n/a,n/a,n/a,n/a,₹ 40.5 Lac,4050,4500
+73862461,Chennai,Sholinganallur,Apartment,1200,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.10 Cr,11000,7300
+66942651,Chennai,Oragadam,Plot/Land,1500,n/a,n/a,n/a,n/a,₹ 52.5 Lac,5250,3500
+71401177,Chennai,Estate,Villa,2057,5 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.60 Cr,16000,7778
+73301057,Chennai,Pallavaram,Apartment,1180,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 85 Lac,8500,7200
+60816467,Chennai,Thaiyur,Plot/Land,956,n/a,n/a,n/a,n/a,₹ 25.3 Lac,2530,2650
+71707939,Chennai,Nemmeli,Plot/Land,4000,n/a,n/a,n/a,n/a,₹ 89 Lac,8900,2225
+71438851,Chennai,Kundrathur,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 40 Lac,4000,4000
+72810719,Chennai,Perungalathur,Plot/Land,28800,n/a,n/a,n/a,n/a,₹ 2.08 Cr,20800,722
+36803773,Chennai,Valarpuram,Plot/Land,1650,n/a,n/a,n/a,n/a,₹ 20 Lac,2000,1212
+71532129,Chennai,Siruseri,Plot/Land,900,n/a,n/a,n/a,n/a,₹ 34.2 Lac,3420,3800
+71883573,Chennai,nagar,Plot/Land,880,n/a,n/a,n/a,n/a,₹ 17.6 Lac,1760,1999
+71860465,Chennai,Malayambakkam,Plot/Land,684,n/a,n/a,n/a,n/a,₹ 31.8 Lac,3180,4646
+71534135,Chennai,Urapakkam,Plot/Land,4000,n/a,n/a,n/a,n/a,₹ 1.52 Cr,15200,3800
+67618067,Chennai,Tharapakkam,Plot/Land,632,n/a,n/a,n/a,n/a,₹ 24.5 Lac,2450,3877
+71892179,Chennai,Nagar,Plot/Land,2040,n/a,n/a,n/a,n/a,₹ 40 Lac,4000,1961
+73195429,Chennai,Road,Plot/Land,2006,n/a,n/a,n/a,n/a,₹ 50 Lac,5000,2493
+73597011,Chennai,Alinjivakkam,Plot/Land,986,n/a,n/a,n/a,n/a,₹ 28.6 Lac,2860,2900
+73398669,Chennai,Ponmar,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 51 Lac,5100,4250
+72917097,Chennai,Kandigai,Plot/Land,987,n/a,n/a,n/a,n/a,₹ 41.5 Lac,4150,4200
+72846069,Chennai,Urapakkam,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 60 Lac,6000,3333
+73335229,Chennai,Tambaram,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 39 Lac,3900,3900
+72990549,Chennai,Maduranthakam,Plot/Land,14400,n/a,n/a,n/a,n/a,₹ 48.2 Lac,4820,335
+73657195,Chennai,Perungalathur,Plot/Land,646,n/a,n/a,n/a,n/a,₹ 38.8 Lac,3879,6000
+70691595,Chennai,Oragadam,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 13.5 Lac,1350,750
+74309201,Chennai,Valasaravakkam,Builder Floor,1000,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.74 Cr,17400,12889
+27865287,Chennai,Kodambakkam,Plot/Land,2403,n/a,n/a,n/a,n/a,₹ 51 Lac,5100,2122
+73344531,Chennai,Oragadam,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 24 Lac,2400,2000
+52849947,Chennai,Sunguvarchatram,Plot/Land,2860,n/a,n/a,n/a,n/a,₹ 69 Lac,6900,2413
+73850489,Chennai,Navalur,Plot/Land,1500,n/a,n/a,n/a,n/a,₹ 84 Lac,8400,5600
+71811773,Chennai,Medavakkam,Apartment,945,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 80 Lac,8000,7018
+60526305,Chennai,Thirumullaivoyal,Plot/Land,2620,n/a,n/a,n/a,n/a,₹ 78.6 Lac,7859,3000
+71454603,Chennai,Maduranthakam,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 7 Lac,700,583
+70155767,Chennai,Perumbakkam,Plot/Land,1100,n/a,n/a,n/a,n/a,₹ 55 Lac,5500,5000
+64730523,Chennai,Mylapore,Apartment,2065,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 3.75 Cr,37500,18160
+27344637,Chennai,Cholapuram,Plot/Land,4800,n/a,n/a,n/a,n/a,₹ 2.20 Cr,22000,4583
+70005973,Chennai,Rajakilpakkam,Apartment,890,2 BHK,Furnished,Resale,Ready to Move,₹ 46 Lac,4600,5169
+70524009,Chennai,Korattur,Apartment,333,3 BHK,Furnished,Resale,Ready to Move,₹ 1.50 Cr,15000,8671
+74282533,Chennai,Madipakkam,Plot/Land,1600,n/a,n/a,n/a,n/a,₹ 1.05 Cr,10500,6562
+72904659,Chennai,Avadi,Plot/Land,3816,n/a,n/a,n/a,n/a,₹ 57.2 Lac,5720,1500
+73796983,Chennai,Mambalam,Builder Floor,900,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.37 Cr,13700,15222
+73661245,Chennai,Mambalam,Apartment,1600,4 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.90 Cr,29000,14918
+70136067,Chennai,Sholinganallur,Villa,1641,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.20 Cr,22000,13406
+65556115,Chennai,Navalur,Villa,2537,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 4.30 Cr,43000,13703
+72124193,Chennai,Guduvancheri,Plot/Land,600,n/a,n/a,n/a,n/a,₹ 15.6 Lac,1560,2599
+73221911,Chennai,Nagar,House,900,1 BHK,Semi-Furnished,Resale,Ready to Move,₹ 89 Lac,8900,8091
+68243639,Chennai,Medavakkam,Plot/Land,900,n/a,n/a,n/a,n/a,₹ 42 Lac,4200,4667
+73379459,Chennai,Nagar,Apartment,1501,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 3.02 Cr,30200,14090
+71093777,Chennai,Perungudi,House,4300,4 BHK,Semi-Furnished,Resale,Ready to Move,₹ 5 Cr,50000,11111
+74288807,Chennai,Adambakkam,Apartment,876,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 83.2 Lac,8320,9500
+72830955,Chennai,Nagar,Apartment,1760,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.10 Cr,21000,11932
+74155793,Chennai,Pallikaranai,Apartment,2591,4 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1.85 Cr,18500,6875
+65475555,Chennai,Koil,Plot/Land,4343,n/a,n/a,n/a,n/a,₹ 1.21 Cr,12100,2800
+74254887,Chennai,Ayappakkam,Plot/Land,984,n/a,n/a,n/a,n/a,₹ 49.2 Lac,4920,5000
+72385041,Chennai,Mudichur,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 33.6 Lac,3360,2800
+74306927,Chennai,Perambur,Apartment,675,2 BHK,Unfurnished,Resale,Ready to Move,₹ 40 Lac,4000,5926
+72923755,Chennai,Thiruverkadu,Plot/Land,1836,n/a,n/a,n/a,n/a,₹ 1.25 Cr,12500,6808
+72622243,Chennai,Kanathur,Villa,3832,4 BHK,Semi-Furnished,Resale,Ready to Move,₹ 5 Cr,50000,10212
+74213939,Chennai,Vanagaram,Apartment,880,3 BHK,Unfurnished,New Property,Ready to Move,₹ 98 Lac,9800,7211
+74239767,Chennai,Choolaimedu,Apartment,1050,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1.40 Cr,14000,9333
+73204159,Chennai,Navalur,Villa,2170,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.10 Cr,21000,9677
+73845227,Chennai,Kanchipuram,Villa,1370,3 BHK,Unfurnished,Resale,Ready to Move,₹ 75 Lac,7500,5474
+73486963,Chennai,Ponneri,House,1800,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1 Cr,10000,4323
+74204161,Chennai,Ponmar,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 85 Lac,8500,3542
+71752625,Chennai,Uthiramerur,Plot/Land,1162,n/a,n/a,n/a,n/a,₹ 7 Lac,700,602
+72847943,Chennai,Irumbuliyur,Apartment,1005,2 BHK,Unfurnished,Resale,Ready to Move,₹ 45 Lac,4500,4478
+73224031,Chennai,Thaiyur,Apartment,1141,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 46 Lac,4600,4032
+71954671,Chennai,Ayappakkam,Plot/Land,2621,n/a,n/a,n/a,n/a,₹ 1.40 Cr,14000,5341
+74249351,Chennai,Colony,Plot/Land,890,n/a,n/a,n/a,n/a,₹ 60 Lac,6000,6742
+74198473,Chennai,Velappanchavadi,Apartment,598,1 BHK,Semi-Furnished,Resale,Ready to Move,₹ 22.5 Lac,2250,3763
+74198843,Chennai,Mambakkam,Plot/Land,6480,n/a,n/a,n/a,n/a,₹ 19.4 Lac,1939,300
+73915669,Chennai,Madhavaram,Apartment,550,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 57.4 Lac,5740,7000
+74041447,Chennai,Oragadam,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 42 Lac,4200,2333
+65164785,Chennai,Oragadam,Apartment,875,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 35 Lac,3500,4000
+73516151,Chennai,Kuvathur,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 26.4 Lac,2640,1100
+73816435,Chennai,Avadi,Plot/Land,872,n/a,n/a,n/a,n/a,₹ 45 Lac,4500,5161
+72319475,Chennai,Valarpuram,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 16.5 Lac,1650,1650
+72903853,Chennai,Villivakkam,Apartment,750,2 BHK,Unfurnished,Resale,Ready to Move,₹ 79.5 Lac,7950,8500
+71148321,Chennai,Thiruporur,Plot/Land,4250,n/a,n/a,n/a,n/a,₹ 70 Lac,7000,1647
+74267053,Chennai,in,Villa,600,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 31 Lac,3100,0
+65361851,Chennai,Kovur,Villa,880,2 BHK,Unfurnished,Resale,Ready to Move,₹ 85 Lac,8500,7083
+73290517,Chennai,Poonamallee,Plot/Land,10300,n/a,n/a,n/a,n/a,₹ 44.8 Lac,4480,435
+72076173,Chennai,Walajabad,Plot/Land,3830,n/a,n/a,n/a,n/a,₹ 1.50 Cr,15000,3916
+73514097,Chennai,Ayappakkam,Plot/Land,3600,n/a,n/a,n/a,n/a,₹ 2.16 Cr,21600,6000
+72232897,Chennai,Veppampattu,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 20 Lac,2000,2500
+73313273,Chennai,Guduvancherry,Plot/Land,1375,n/a,n/a,n/a,n/a,₹ 34.4 Lac,3440,2500
+72762113,Chennai,Chettipunyam,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 18 Lac,1800,1000
+73840599,Chennai,Thazhambur,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 55 Lac,5500,5500
+74223863,Chennai,Pattipulam,Plot/Land,10000,n/a,n/a,n/a,n/a,₹ 1.70 Cr,17000,1700
+74083031,Chennai,Iyyappanthangal,Apartment,900,2 BHK,Unfurnished,Resale,Ready to Move,₹ 45 Lac,4500,0
+71675839,Chennai,Mogappair,Apartment,2007,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.15 Cr,21500,10713
+74300195,Chennai,Guduvancheri,Plot/Land,1250,n/a,n/a,n/a,n/a,₹ 33 Lac,3300,2640
+74120029,Chennai,Mannadi,Plot/Land,1644,n/a,n/a,n/a,n/a,₹ 4 Cr,40000,24331
+74322865,Chennai,Road,Apartment,690,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 39 Lac,3900,5652
+72043391,Chennai,Avadi,Apartment,876,2 BHK,Unfurnished,Resale,Ready to Move,₹ 49 Lac,4900,5594
+66341995,Chennai,Neelankarai,Villa,7000,5 BHK,Furnished,Resale,Ready to Move,₹ 18 Cr,180000,25714
+71107819,Chennai,Rajakilpakkam,Apartment,1035,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 54 Lac,5400,5217
+73271063,Chennai,Chennai,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 99 Lac,9900,5500
+72395493,Chennai,Thaiyur,Plot/Land,615,n/a,n/a,n/a,n/a,₹ 15.4 Lac,1540,2504
+71557767,Chennai,Nagar,Plot/Land,1890,n/a,n/a,n/a,n/a,₹ 53 Lac,5300,2804
+73662579,Chennai,Pozhichalur,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 18 Lac,1800,1500
+70913459,Chennai,Thirumudivakkam,Plot/Land,1443,n/a,n/a,n/a,n/a,₹ 70 Lac,7000,4851
+73014651,Chennai,Urapakkam,House,1100,2 BHK,Unfurnished,Resale,Ready to Move,₹ 1.76 Cr,17600,16036
+74310881,Chennai,Padappai,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 12 Lac,1200,1500
+66855959,Chennai,Ambattur,Apartment,1626,3 BHK,Unfurnished,Resale,Ready to Move,₹ 1.07 Cr,10700,6581
+73829103,Chennai,Perungudi,Apartment,1723,3 BHK,Unfurnished,Resale,Ready to Move,₹ 1.80 Cr,18000,10447
+73473677,Chennai,Sholinganallur,Plot/Land,1750,n/a,n/a,n/a,n/a,₹ 1.26 Cr,12600,7200
+73982389,Chennai,Mogappair,Apartment,1412,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.30 Cr,13000,9207
+73286249,Chennai,Siruseri,Plot/Land,1230,n/a,n/a,n/a,n/a,₹ 58 Lac,5800,4715
+72633517,Chennai,Kelambakkam,Plot/Land,1125,n/a,n/a,n/a,n/a,₹ 42.8 Lac,4280,3800
+69249737,Chennai,Egmore,Apartment,1880,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1.50 Cr,15000,7895
+74200073,Chennai,Ponmar,Plot/Land,1049,n/a,n/a,n/a,n/a,₹ 34.6 Lac,3460,3299
+26851433,Chennai,Oragadam,Plot/Land,600,n/a,n/a,n/a,n/a,₹ 8 Lac,800,1333
+72013777,Chennai,Nagar,Apartment,1318,3 BHK,Furnished,Resale,Ready to Move,₹ 2.40 Cr,24000,18209
+70928263,Chennai,Manimangalam,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 12 Lac,1200,1000
+37782611,Chennai,Veppampattu,Plot/Land,2042,n/a,n/a,n/a,n/a,₹ 46.5 Lac,4650,2277
+72276177,Chennai,Athivakkam,Plot/Land,1597,n/a,n/a,n/a,n/a,₹ 39.9 Lac,3990,2500
+73810889,Chennai,Road,Plot/Land,2700,n/a,n/a,n/a,n/a,₹ 3 Cr,30000,11111
+73155947,Chennai,Ponneri,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 6 Lac,600,750
+73782817,Chennai,Anakaputhur,Plot/Land,3000,n/a,n/a,n/a,n/a,₹ 1.50 Cr,15000,5000
+73681789,Chennai,Thazhambur,Apartment,1026,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 60 Lac,6000,5848
+69908117,Chennai,Puzhal,Plot/Land,8749,n/a,n/a,n/a,n/a,₹ 3.15 Cr,31500,3600
+71925909,Chennai,Padapai,Plot/Land,6606,n/a,n/a,n/a,n/a,₹ 1 Cr,10000,1514
+73485461,Chennai,Kolathur,Plot/Land,2145,n/a,n/a,n/a,n/a,₹ 1.50 Cr,15000,6993
+73111063,Chennai,Kundrathur,Plot/Land,920,n/a,n/a,n/a,n/a,₹ 33.1 Lac,3310,3600
+73304945,Chennai,Sikkarayapuram,Plot/Land,1815,n/a,n/a,n/a,n/a,₹ 82 Lac,8200,4518
+72431281,Chennai,Nagar,Plot/Land,10800,n/a,n/a,n/a,n/a,₹ 1.08 Cr,10800,1000
+72587931,Chennai,Meenambakkam,Apartment,1350,3 BHK,Unfurnished,Resale,Ready to Move,₹ 70 Lac,7000,5185
+73964295,Chennai,Palavakkam,Villa,2700,5 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.75 Cr,27500,9167
+72381067,Chennai,Valasaravakkam,Apartment,950,2 BHK,Furnished,Resale,Ready to Move,₹ 85 Lac,8500,0
+60019811,Chennai,Kotturpuram,Plot/Land,3600,n/a,n/a,n/a,n/a,₹ 7.56 Cr,75600,21000
+70039347,Chennai,Morai,Plot/Land,2130,n/a,n/a,n/a,n/a,₹ 25 Lac,2500,1174
+71222551,Chennai,Mangadu,Apartment,965,2 BHK,Unfurnished,New Property,Ready to Move,₹ 42.7 Lac,4270,4005
+74309149,Chennai,Pakkam,Apartment,804,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 53.9 Lac,5390,6700
+68779423,Chennai,Ponmar,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 50.4 Lac,5040,2800
+74155521,Chennai,II,Apartment,600,2 BHK,Furnished,Resale,Ready to Move,₹ 50 Lac,5000,6196
+73461355,Chennai,Chepauk,Apartment,680,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.25 Cr,12500,13797
+74174265,Chennai,Kelambakkam,Plot/Land,726,n/a,n/a,n/a,n/a,₹ 24 Lac,2400,3306
+73407485,Chennai,Vandalur,Plot/Land,1424,n/a,n/a,n/a,n/a,₹ 41 Lac,4100,2879
+71060821,Chennai,Madipakkam,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 1.25 Cr,12500,5208
+71727209,Chennai,Oragadam,Plot/Land,1875,n/a,n/a,n/a,n/a,₹ 28.1 Lac,2810,1499
+71801905,Chennai,Padapai,Plot/Land,1370,n/a,n/a,n/a,n/a,₹ 35 Lac,3500,2555
+71650287,Chennai,Kuppam,Plot/Land,1100,n/a,n/a,n/a,n/a,₹ 60.5 Lac,6050,5500
+73006355,Chennai,Medavakkam,Apartment,759,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 55.9 Lac,5590,6523
+72842279,Chennai,Oragadam,Apartment,1150,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 40 Lac,4000,3478
+73813727,Chennai,Guduvancherry,Plot/Land,600,n/a,n/a,n/a,n/a,₹ 18 Lac,1800,3000
+71751837,Chennai,Madambakkam,House,3000,4 BHK,Semi-Furnished,Resale,Ready to Move,₹ 2.60 Cr,26000,8667
+62459003,Chennai,Chennai,Plot/Land,1500,n/a,n/a,n/a,n/a,₹ 30 Lac,3000,2000
+72043395,Chennai,Thoraipakkam,Plot/Land,1820,n/a,n/a,n/a,n/a,₹ 2.25 Cr,22500,12363
+73054739,Chennai,Anakaputhur,Apartment,504,1 BHK,Unfurnished,Resale,Ready to Move,₹ 27 Lac,2700,0
+71882111,Chennai,Nemam,Plot/Land,958,n/a,n/a,n/a,n/a,₹ 21 Lac,2100,2192
+73826069,Chennai,Nagar,House,1100,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 55 Lac,5500,5000
+74067681,Chennai,Kannivakkam,Plot/Land,2010,n/a,n/a,n/a,n/a,₹ 64 Lac,6400,3184
+73103919,Chennai,Kilpauk,Apartment,1850,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 3 Cr,30000,14634
+72361611,Chennai,Selaiyur,Apartment,700,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 36 Lac,3600,4500
+71778401,Chennai,Porur,Apartment,262,1 BHK,Semi-Furnished,Resale,Ready to Move,₹ 36.5 Lac,3650,7900
+71227729,Chennai,Karapakkam,Villa,5500,5 BHK,Semi-Furnished,Resale,Ready to Move,₹ 6 Cr,60000,7792
+72418381,Chennai,Numbal,Apartment,650,2 BHK,Unfurnished,Resale,Ready to Move,₹ 40 Lac,4000,3925
+65646043,Chennai,Choolaimedu,Apartment,727,1 BHK,Semi-Furnished,Resale,Ready to Move,₹ 42 Lac,4200,5777
+67840803,Chennai,Somangalam,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 36 Lac,3600,1500
+74073877,Chennai,Sholinganallur,Villa,1641,3 BHK,Unfurnished,Resale,Ready to Move,₹ 2.54 Cr,25400,15478
+72906833,Chennai,Urapakkam,Apartment,1620,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 96 Lac,9600,5926
+72283789,Chennai,Madambakkam,Plot/Land,756,n/a,n/a,n/a,n/a,₹ 31 Lac,3100,4101
+72528755,Chennai,Nerkundram,Apartment,1674,3 BHK,Furnished,Resale,Ready to Move,₹ 1.50 Cr,15000,8961
+74309133,Chennai,in,House,2500,5 BHK,Unfurnished,Resale,Ready to Move,₹ 2 Cr,20000,8000
+71425627,Chennai,Road,Plot/Land,710,n/a,n/a,n/a,n/a,₹ 19 Lac,1900,2676
+71663271,Chennai,Urapakkam,Plot/Land,2250,n/a,n/a,n/a,n/a,₹ 69 Lac,6900,3067
+67285355,Chennai,Padapai,Plot/Land,1950,n/a,n/a,n/a,n/a,₹ 16.5 Lac,1650,846
+73227703,Chennai,Chettipunyam,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 45 Lac,4500,2500
+74251699,Chennai,Manali,Plot/Land,432,n/a,n/a,n/a,n/a,₹ 10 Lac,1000,2315
+12928419,Chennai,Thiruvallur,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 25 Lac,2500,1042
+50328574,Chennai,West,Apartment,592,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 50 Lac,5000,7692
+72274629,Chennai,City,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 15 Lac,1500,1250
+71248137,Chennai,Koyambedu,Apartment,1860,4 BHK,Unfurnished,Resale,Ready to Move,₹ 3.90 Cr,39000,14223
+72453457,Chennai,Kalankatur,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 15.5 Lac,1550,646
+72887489,Chennai,Thazhambur,Plot/Land,30380,n/a,n/a,n/a,n/a,₹ 1.01 Cr,10100,333
+69229929,Chennai,Padapai,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 20 Lac,2000,2500
+73525425,Chennai,Guduvancherry,Plot/Land,5400,n/a,n/a,n/a,n/a,₹ 15.5 Lac,1550,287
+69892045,Chennai,Nagar,Apartment,1300,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 3.55 Cr,35500,23401
+73446875,Chennai,Chintadripet,Apartment,820,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1.25 Cr,12500,14706
+74295193,Chennai,Pammal,Apartment,1210,2 BHK,Unfurnished,Resale,Ready to Move,₹ 84 Lac,8400,6942
+74334891,Chennai,Chitlapakkam,Plot/Land,3550,n/a,n/a,n/a,n/a,₹ 2.60 Cr,26000,7324
+66922227,Chennai,Kolathur,Plot/Land,1920,n/a,n/a,n/a,n/a,₹ 1.20 Cr,12000,6250
+74346235,Chennai,Kundrathur,Villa,1600,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 95 Lac,9500,5938
+72260769,Chennai,Kolapakkam,Villa,1800,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.50 Cr,15000,6250
+74267273,Chennai,Estate,Apartment,839,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.01 Cr,10100,7897
+64808367,Chennai,Kelambakkam,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 65 Lac,6500,2708
+71119373,Chennai,Ottiambakkam,Plot/Land,2188,n/a,n/a,n/a,n/a,₹ 61.3 Lac,6130,2800
+45752507,Chennai,Morai,Plot/Land,2484,n/a,n/a,n/a,n/a,₹ 26 Lac,2600,1047
+73988345,Chennai,Thiruvanmiyur,Builder Floor,1805,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.70 Cr,27000,14958
+73866313,Chennai,Kelambakkam,Plot/Land,625,n/a,n/a,n/a,n/a,₹ 13.9 Lac,1390,2216
+71635901,Chennai,Gerugambakkam,Villa,1952,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1.55 Cr,15500,7203
+73183961,Chennai,Saidapet,Apartment,954,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1.35 Cr,13500,11698
+73749427,Chennai,pallavaram,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 1.05 Cr,10500,8750
+73871157,Chennai,Medavakkam,Apartment,1360,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1.10 Cr,11000,7534
+72018619,Chennai,Injambakkam,Plot/Land,1150,n/a,n/a,n/a,n/a,₹ 97.5 Lac,9750,8478
+73977009,Chennai,Manimangalam,Plot/Land,1539,n/a,n/a,n/a,n/a,₹ 33 Lac,3300,2144
+73475533,Chennai,Perungalathur,Plot/Land,962,n/a,n/a,n/a,n/a,₹ 52.9 Lac,5290,5500
+73326353,Chennai,Nagar,Apartment,930,3 BHK,Unfurnished,New Property,Ready to Move,₹ 1.11 Cr,11100,9200
+28723015,Chennai,Paiyanur,Plot/Land,8275,n/a,n/a,n/a,n/a,₹ 1.40 Cr,14000,1692
+74191339,Chennai,Iyyappanthangal,Plot/Land,11330,n/a,n/a,n/a,n/a,₹ 1.35 Cr,13500,1191
+72961883,Chennai,Urapakkam,Apartment,966,2 BHK,Unfurnished,Resale,Ready to Move,₹ 68 Lac,6800,6379
+70034931,Chennai,Selaiyur,Apartment,655,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 41 Lac,4100,5430
+62592789,Chennai,Veppampattu,Villa,1000,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 31 Lac,3100,3100
+73492769,Chennai,Puram,House,1448,3 BHK,Unfurnished,Resale,Ready to Move,₹ 75 Lac,7500,5180
+46171427,Chennai,Pallikaranai,Plot/Land,1500,n/a,n/a,n/a,n/a,₹ 73.5 Lac,7350,4900
+73426663,Chennai,Pinjivakkam,Plot/Land,990,n/a,n/a,n/a,n/a,₹ 7 Lac,700,707
+71835109,Chennai,Kannivakkam,Plot/Land,1325,n/a,n/a,n/a,n/a,₹ 41 Lac,4100,3094
+61072229,Chennai,Thaiyur,Plot/Land,1966,n/a,n/a,n/a,n/a,₹ 73 Lac,7300,3713
+66744229,Chennai,Gummidipundi,Plot/Land,968,n/a,n/a,n/a,n/a,₹ 29 Lac,2900,2996
+73194711,Chennai,Guduvancheri,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 70 Lac,7000,3889
+73340583,Chennai,Avadi,Apartment,370,1 BHK,Unfurnished,Resale,Ready to Move,₹ 37 Lac,3700,6491
+73820543,Chennai,Perambur,Plot/Land,4500,n/a,n/a,n/a,n/a,₹ 5 Cr,50000,11111
+73450445,Chennai,Gerugambakkam,Builder Floor,1367,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 65 Lac,6500,4755
+66460971,Chennai,Guduvancheri,Plot/Land,2255,n/a,n/a,n/a,n/a,₹ 60 Lac,6000,2661
+73538043,Chennai,Avadi,Plot/Land,640,n/a,n/a,n/a,n/a,₹ 45 Lac,4500,7031
+73219355,Chennai,Acharapakkam,Plot/Land,600,n/a,n/a,n/a,n/a,₹ 2.8 Lac,280,467
+74303207,Chennai,Kolathur,Plot/Land,3200,n/a,n/a,n/a,n/a,₹ 4 Cr,40000,12500
+73756051,Chennai,Selaiyur,Apartment,760,2 BHK,Unfurnished,Resale,Ready to Move,₹ 45 Lac,4500,5921
+72379161,Chennai,Thoraipakkam,Villa,3319,3 BHK,Unfurnished,Resale,Ready to Move,₹ 3.75 Cr,37500,11299
+71102127,Chennai,Tiruvottiyur,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 43.2 Lac,4320,3600
+72012719,Chennai,Sriperumbudur,Plot/Land,1260,n/a,n/a,n/a,n/a,₹ 17.4 Lac,1739,1382
+70701775,Chennai,Puram,House,3100,4 BHK,Unfurnished,Resale,Ready to Move,₹ 9 Cr,90000,28125
+72960769,Chennai,Somangalam,Plot/Land,5260,n/a,n/a,n/a,n/a,₹ 90 Lac,9000,1711
+71656277,Chennai,Manapakkam,Apartment,890,2 BHK,Unfurnished,New Property,Ready to Move,₹ 1.20 Cr,12000,9036
+71826745,Chennai,Kotturpuram,Apartment,656,2 BHK,Unfurnished,Resale,Ready to Move,₹ 70 Lac,7000,0
+71793501,Chennai,Vadaperumbakkam,Plot/Land,1103,n/a,n/a,n/a,n/a,₹ 35 Lac,3500,3173
+74192461,Chennai,nedunkundram,Plot/Land,672,n/a,n/a,n/a,n/a,₹ 27 Lac,2700,4018
+73252079,Chennai,Guduvancheri,Plot/Land,1138,n/a,n/a,n/a,n/a,₹ 50.6 Lac,5060,4446
+67822663,Chennai,Kattankulathur,Plot/Land,872,n/a,n/a,n/a,n/a,₹ 17.4 Lac,1739,2000
+70404397,Chennai,Urapakkam,Plot/Land,1600,n/a,n/a,n/a,n/a,₹ 99.9 Lac,9990,6241
+73283795,Chennai,Korattur,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 1.10 Cr,11000,9167
+55036569,Chennai,Oragadam,Apartment,2256,4 BHK,Unfurnished,Resale,Ready to Move,₹ 86 Lac,8600,3812
+69345375,Chennai,Manimangalam,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 41 Lac,4100,1708
+71712429,Chennai,Mugalivakkam,Apartment,1045,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 80 Lac,8000,6426
+73327157,Chennai,Vandalur,House,2400,1 BHK,Unfurnished,Resale,Ready to Move,₹ 1.10 Cr,11000,4583
+71622355,Chennai,Madipakkam,Apartment,967,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 62.9 Lac,6290,5714
+74249975,Chennai,Perungalathur,Plot/Land,1098,n/a,n/a,n/a,n/a,₹ 60.4 Lac,6040,5500
+69319561,Chennai,Medavakkam,Plot/Land,817,n/a,n/a,n/a,n/a,₹ 31.9 Lac,3190,3900
+74345567,Chennai,Mannivakkam,Plot/Land,900,n/a,n/a,n/a,n/a,₹ 36.9 Lac,3690,4100
+74188923,Chennai,Palur,Plot/Land,6000,n/a,n/a,n/a,n/a,₹ 1.50 Cr,15000,2500
+60436379,Chennai,Tambaram,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 60 Lac,6000,6000
+72855381,Chennai,Tambaram,Plot/Land,2145,n/a,n/a,n/a,n/a,₹ 1.10 Cr,11000,5128
+71987513,Chennai,Padur,Apartment,4168,5 BHK,Furnished,Resale,Ready to Move,₹ 2.60 Cr,26000,6238
+73476589,Chennai,Hills,Plot/Land,650,n/a,n/a,n/a,n/a,₹ 12.4 Lac,1240,1900
+74089481,Chennai,Poonjeri,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 28.8 Lac,2880,1200
+46395649,Chennai,Oragadam,Plot/Land,9600,n/a,n/a,n/a,n/a,₹ 48 Lac,4800,500
+71184027,Chennai,Mahabalipuram,Plot/Land,630,n/a,n/a,n/a,n/a,₹ 13.8 Lac,1380,2195
+74228333,Chennai,Manimangalam,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 32.4 Lac,3240,2700
+65842751,Chennai,Thirumazhisai,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 24.3 Lac,2430,1350
+31714457,Chennai,Urapakkam,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 38 Lac,3800,1583
+73614935,Chennai,Pattabiram,House,720,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 59.5 Lac,5950,4958
+74278459,Chennai,Kovalam,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 42 Lac,4200,3500
+74313305,Chennai,Guduvancheri,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 22.2 Lac,2220,1850
+73622287,Chennai,Manimangalam,Plot/Land,605,n/a,n/a,n/a,n/a,₹ 15.1 Lac,1510,2500
+72206671,Chennai,Urapakkam,Plot/Land,839,n/a,n/a,n/a,n/a,₹ 17 Lac,1700,2026
+61907553,Chennai,Alwarpet,Apartment,1900,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 3.50 Cr,35000,0
+74192049,Chennai,Ponneri,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 10.4 Lac,1040,1300
+74291681,Chennai,Thiruvallur,Plot/Land,950,n/a,n/a,n/a,n/a,₹ 15.2 Lac,1520,1600
+74355721,Chennai,Road,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 60 Lac,6000,5000
+72934965,Chennai,Guduvancheri,Plot/Land,988,n/a,n/a,n/a,n/a,₹ 23.7 Lac,2370,2400
+74316555,Chennai,Guduvancheri,Builder Floor,976,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 42 Lac,4200,4300
+74265205,Chennai,Nagar,Plot/Land,600,n/a,n/a,n/a,n/a,₹ 21 Lac,2100,3501
+73230777,Chennai,Minjur,Plot/Land,600,n/a,n/a,n/a,n/a,₹ 8.5 Lac,850,1417
+73174863,Chennai,Surapet,Plot/Land,625,n/a,n/a,n/a,n/a,₹ 35 Lac,3500,5600
+71935691,Chennai,Neelankarai,Villa,2680,4 BHK,Semi-Furnished,New Property,Ready to Move,₹ 3.45 Cr,34500,12873
+74225223,Chennai,Nolambur,Plot/Land,12960,n/a,n/a,n/a,n/a,₹ 1.72 Cr,17200,1333
+73265935,Chennai,Revathipuram,Apartment,600,1 BHK,Semi-Furnished,Resale,Ready to Move,₹ 19 Lac,1900,3040
+72606977,Chennai,Kundrathur,Plot/Land,912,n/a,n/a,n/a,n/a,₹ 37.5 Lac,3750,4112
+73736339,Chennai,Pudupakkam,Plot/Land,1206,n/a,n/a,n/a,n/a,₹ 66.3 Lac,6630,5500
+74330043,Chennai,Thiruvanmiyur,Plot/Land,2620,n/a,n/a,n/a,n/a,₹ 5.30 Cr,53000,20229
+71621807,Chennai,Kandigai,Plot/Land,874,n/a,n/a,n/a,n/a,₹ 24.5 Lac,2450,2800
+74128439,Chennai,Guduvancheri,Apartment,507,1 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 19.5 Lac,1950,3850
+72164955,Chennai,Ponmar,Plot/Land,1070,n/a,n/a,n/a,n/a,₹ 42.7 Lac,4270,3987
+71474589,Chennai,Avadi,Plot/Land,706,n/a,n/a,n/a,n/a,₹ 21 Lac,2100,2975
+73195137,Chennai,Guduvancheri,Plot/Land,16120,n/a,n/a,n/a,n/a,₹ 4 Cr,40000,2482
+74286287,Chennai,Koyambedu,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 1.25 Cr,12500,12500
+72510961,Chennai,Poonamallee,Plot/Land,1186,n/a,n/a,n/a,n/a,₹ 44 Lac,4400,3710
+73046481,Chennai,Pudupakkam,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 30 Lac,3000,3750
+72025483,Chennai,Urapakkam,Apartment,700,2 BHK,Furnished,Resale,Ready to Move,₹ 34 Lac,3400,4857
+74073193,Chennai,Navalur,Plot/Land,704,n/a,n/a,n/a,n/a,₹ 33.8 Lac,3379,4800
+74202279,Chennai,Kayarambedu,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 48.6 Lac,4860,2700
+46080211,Chennai,Guduvancheri,Plot/Land,891,n/a,n/a,n/a,n/a,₹ 29 Lac,2900,3255
+68887199,Chennai,Pinjivakkam,Plot/Land,2100,n/a,n/a,n/a,n/a,₹ 19 Lac,1900,905
+71375481,Chennai,Avadi,Apartment,484,2 BHK,Unfurnished,Resale,Ready to Move,₹ 35 Lac,3500,5747
+73442191,Chennai,Thoraipakkam,Apartment,1575,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1.60 Cr,16000,10159
+73697673,Chennai,Polacheri,Apartment,1060,3 BHK,Unfurnished,Resale,Ready to Move,₹ 44 Lac,4400,3667
+29329711,Chennai,Mevalurkuppam,Plot/Land,1710,n/a,n/a,n/a,n/a,₹ 27 Lac,2700,1579
+71347541,Chennai,Road,Plot/Land,3255,n/a,n/a,n/a,n/a,₹ 1.69 Cr,16900,5192
+73919605,Chennai,Ramapuram,Plot/Land,3600,n/a,n/a,n/a,n/a,₹ 3.90 Cr,39000,10833
+72913651,Chennai,Chennai,Plot/Land,2020,n/a,n/a,n/a,n/a,₹ 30 Lac,3000,1485
+72330913,Chennai,gokulam,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 40 Lac,4000,1667
+73355573,Chennai,Nagar,Plot/Land,1460,n/a,n/a,n/a,n/a,₹ 94.9 Lac,9490,6499
+74028351,Chennai,Guduvancheri,Apartment,445,1 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 18.6 Lac,1860,3749
+74263657,Chennai,Pudupakkam,Plot/Land,882,n/a,n/a,n/a,n/a,₹ 32.6 Lac,3260,3700
+74354341,Chennai,Panaiyur,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 2.20 Cr,22000,9167
+72734381,Chennai,Nungambakkam,Apartment,2800,4 BHK,Semi-Furnished,New Property,Ready to Move,₹ 7 Cr,70000,21212
+73368053,Chennai,Kotturpuram,Apartment,700,2 BHK,Unfurnished,Resale,Ready to Move,₹ 77 Lac,7700,9333
+72752829,Chennai,Keelkattalai,Apartment,872,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.20 Cr,12000,10667
+74254209,Chennai,Thoraipakkam,Plot/Land,902,n/a,n/a,n/a,n/a,₹ 63.1 Lac,6310,7000
+73608635,Chennai,Mogappair,Apartment,3356,5 BHK,Unfurnished,Resale,Ready to Move,₹ 4.75 Cr,47500,14154
+71993605,Chennai,Perungavur,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 72 Lac,7200,3000
+72205885,Chennai,City,Plot/Land,600,n/a,n/a,n/a,n/a,₹ 17.3 Lac,1730,2888
+73419953,Chennai,Manimangalam,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 29.5 Lac,2950,2950
+74105785,Chennai,West,Builder Floor,2500,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 6 Cr,60000,23077
+71782079,Chennai,Nandiambakkam,Plot/Land,2352,n/a,n/a,n/a,n/a,₹ 21 Lac,2100,893
+72941903,Chennai,Nagar,House,2200,5 BHK,Unfurnished,Resale,Ready to Move,₹ 2.10 Cr,21000,23864
+70840861,Chennai,Vadakarai,Plot/Land,3600,n/a,n/a,n/a,n/a,₹ 1.18 Cr,11800,3278
+74155471,Chennai,in,Plot/Land,2640,n/a,n/a,n/a,n/a,₹ 15 Lac,1500,568
+53061291,Chennai,Perungalathur,Plot/Land,2180,n/a,n/a,n/a,n/a,₹ 1.25 Cr,12500,5734
+73684899,Chennai,Thiruporur,Plot/Land,2596,n/a,n/a,n/a,n/a,₹ 58 Lac,5800,2234
+74171883,Chennai,East,Apartment,1027,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 85 Lac,8500,8285
+73442665,Chennai,Medavakkam,Plot/Land,5200,n/a,n/a,n/a,n/a,₹ 4.50 Cr,45000,8654
+73393825,Chennai,Veppampattu,House,980,2 BHK,Unfurnished,Resale,Ready to Move,₹ 43 Lac,4300,3644
+72794939,Chennai,Arasankalani,Plot/Land,1110,n/a,n/a,n/a,n/a,₹ 51.1 Lac,5110,4600
+71345931,Chennai,Vaiyavoor,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 25 Lac,2500,1389
+73479213,Chennai,Selaiyur,Plot/Land,960,n/a,n/a,n/a,n/a,₹ 50 Lac,5000,5208
+73210727,Chennai,Nagar,Apartment,1105,2 BHK,Unfurnished,Resale,Ready to Move,₹ 1.80 Cr,18000,16290
+73683409,Chennai,Valarpuram,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 14.4 Lac,1440,800
+64619535,Chennai,Navalur,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 35 Lac,3500,3500
+73604765,Chennai,Pudupakkam,Plot/Land,1100,n/a,n/a,n/a,n/a,₹ 44 Lac,4400,4000
+74032429,Chennai,Selaiyur,Plot/Land,1303,n/a,n/a,n/a,n/a,₹ 84.7 Lac,8470,6500
+71838081,Chennai,Pattabiram,Plot/Land,1100,n/a,n/a,n/a,n/a,₹ 28.6 Lac,2860,2600
+73418293,Chennai,Thoraipakkam,Apartment,1655,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1.15 Cr,11500,6436
+70138139,Chennai,Kelambakkam,Apartment,836,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 22 Lac,2200,2632
+74064183,Chennai,Nemilichery,Apartment,600,2 BHK,Unfurnished,Resale,Ready to Move,₹ 45 Lac,4500,6040
+74050997,Chennai,Road,Plot/Land,950,n/a,n/a,n/a,n/a,₹ 65 Lac,6500,6842
+72522333,Chennai,Mahabalipuram,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 18 Lac,1800,1800
+72808153,Chennai,Chennai,Plot/Land,2800,n/a,n/a,n/a,n/a,₹ 70 Lac,7000,2500
+73323273,Chennai,koyembedu,Apartment,1324,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.47 Cr,14700,11103
+74325201,Chennai,Poonjeri,Plot/Land,10800,n/a,n/a,n/a,n/a,₹ 26.3 Lac,2630,244
+74081883,Chennai,Perungudi,Apartment,1120,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 3.60 Cr,36000,19780
+74086769,Chennai,Egattur,Apartment,2752,4 BHK,Furnished,Resale,Ready to Move,₹ 3 Cr,30000,10901
+73060779,Chennai,Numbal,Apartment,1212,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 79 Lac,7900,5595
+72724907,Chennai,Chromepet,House,2200,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 1.80 Cr,18000,7500
+73144233,Chennai,Sithalapakkam,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 60 Lac,6000,4999
+72542681,Chennai,Pattabiram,Plot/Land,1841,n/a,n/a,n/a,n/a,₹ 57 Lac,5700,3096
+71944005,Chennai,Padapai,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 20 Lac,2000,2000
+73789919,Chennai,Saidapet,Apartment,1700,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.80 Cr,28000,15478
+74114653,Chennai,Ekkatuthangal,Plot/Land,2314,n/a,n/a,n/a,n/a,₹ 3 Cr,30000,12965
+73923255,Chennai,Mannivakkam,Plot/Land,2100,n/a,n/a,n/a,n/a,₹ 74 Lac,7400,3524
+71708513,Chennai,Valasaravakkam,Apartment,1649,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 2.30 Cr,23000,13948
+56707851,Chennai,Sholinganallur,Plot/Land,3400,n/a,n/a,n/a,n/a,₹ 1.97 Cr,19700,5800
+73867729,Chennai,Selaiyur,Plot/Land,1260,n/a,n/a,n/a,n/a,₹ 56 Lac,5600,4444
+73710469,Chennai,Saligramam,Plot/Land,6720,n/a,n/a,n/a,n/a,₹ 15 Cr,150000,22321
+72777189,Chennai,West,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 49.5 Lac,4950,6181
+70475901,Chennai,West,Plot/Land,2256,n/a,n/a,n/a,n/a,₹ 3 Cr,30000,13298
+73392223,Chennai,Poonamallee,Plot/Land,2269,n/a,n/a,n/a,n/a,₹ 35.2 Lac,3520,1550
+74178381,Chennai,Arasankalani,Plot/Land,1599,n/a,n/a,n/a,n/a,₹ 96 Lac,9600,6004
+62635101,Chennai,Pakkam,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 12 Lac,1200,1200
+62987591,Chennai,Mylapore,Apartment,700,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 60 Lac,6000,8571
+73477193,Chennai,Nagar,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 1.50 Cr,15000,6250
+73984517,Chennai,Ponmar,Plot/Land,1300,n/a,n/a,n/a,n/a,₹ 48.1 Lac,4810,3700
+68072179,Chennai,Kovur,Plot/Land,1450,n/a,n/a,n/a,n/a,₹ 75 Lac,7500,5172
+73150345,Chennai,Avadi,Plot/Land,861,n/a,n/a,n/a,n/a,₹ 37 Lac,3700,4300
+73662451,Chennai,Vadakarai,Plot/Land,900,n/a,n/a,n/a,n/a,₹ 34 Lac,3400,3778
+72569655,Chennai,Sriperumbudur,Plot/Land,1500,n/a,n/a,n/a,n/a,₹ 27 Lac,2700,1800
+73583217,Chennai,Perumbakkam,Builder Floor,800,2 BHK,Unfurnished,Resale,Ready to Move,₹ 35 Lac,3500,4375
+73914795,Chennai,Manapakkam,Plot/Land,16970,n/a,n/a,n/a,n/a,₹ 2.05 Cr,20500,1211
+71036825,Chennai,Kundrathur,Plot/Land,7668,n/a,n/a,n/a,n/a,₹ 50 Lac,5000,652
+74085241,Chennai,West,House,1200,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 3 Cr,30000,18750
+51600149,Chennai,Poonamallee,Plot/Land,2789,n/a,n/a,n/a,n/a,₹ 54.4 Lac,5440,1950
+21594905,Chennai,Avadi,Builder Floor,563,2 BHK,Unfurnished,Resale,Ready to Move,₹ 33 Lac,3300,4325
+72220313,Chennai,Kattankulathur,Plot/Land,2500,n/a,n/a,n/a,n/a,₹ 49 Lac,4900,1960
+70151903,Chennai,Guduvancheri,Apartment,390,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 35.5 Lac,3550,6017
+73636483,Chennai,Thirumullaivoyal,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 48 Lac,4800,4000
+73922371,Chennai,Thiruninravur,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 32.4 Lac,3240,1800
+74290787,Chennai,Nagar,Plot/Land,1272,n/a,n/a,n/a,n/a,₹ 92.9 Lac,9290,7300
+72129067,Chennai,Kolathur,Apartment,448,2 BHK,Unfurnished,Resale,Ready to Move,₹ 32.8 Lac,3279,6108
+73885653,Chennai,Injambakkam,Plot/Land,3800,n/a,n/a,n/a,n/a,₹ 4.37 Cr,43700,11500
+72468767,Chennai,Ottiambakkam,Plot/Land,648,n/a,n/a,n/a,n/a,₹ 29.8 Lac,2980,4600
+73777113,Chennai,Karanodai,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 12 Lac,1200,1500
+62088455,Chennai,Guduvancheri,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 31.8 Lac,3180,2650
+74266483,Chennai,Chennai,Plot/Land,863,n/a,n/a,n/a,n/a,₹ 41 Lac,4100,4750
+74283683,Chennai,Hills,Plot/Land,2349,n/a,n/a,n/a,n/a,₹ 21.1 Lac,2110,900
+71683775,Chennai,Mudichur,House,1550,3 BHK,Furnished,New Property,Ready to Move,₹ 90 Lac,9000,6522
+71709507,Chennai,Perumbakkam,Apartment,909,2 BHK,Unfurnished,Resale,Ready to Move,₹ 52 Lac,5200,5721
+71884447,Chennai,Potheri,Apartment,920,2 BHK,Unfurnished,Resale,Ready to Move,₹ 40 Lac,4000,3333
+71548777,Chennai,Velachery,Villa,1590,3 BHK,Unfurnished,Resale,Ready to Move,₹ 2 Cr,20000,0
+74194613,Chennai,Medavakkam,Plot/Land,1898,n/a,n/a,n/a,n/a,₹ 1.80 Cr,18000,9484
+66505119,Chennai,Kundrathur,Plot/Land,660,n/a,n/a,n/a,n/a,₹ 16.5 Lac,1650,2500
+71839759,Chennai,Ponmar,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 31.2 Lac,3120,3900
+69128909,Chennai,City,Plot/Land,7200,n/a,n/a,n/a,n/a,₹ 2.52 Cr,25200,3500
+74349507,Chennai,Iyyappanthangal,Plot/Land,1250,n/a,n/a,n/a,n/a,₹ 85 Lac,8500,6800
+72953477,Chennai,Sholinganallur,House,2200,4 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.40 Cr,14000,6364
+73189485,Chennai,Mangadu,Plot/Land,890,n/a,n/a,n/a,n/a,₹ 48 Lac,4800,5393
+74063053,Chennai,Korattur,Plot/Land,3920,n/a,n/a,n/a,n/a,₹ 2.70 Cr,27000,6888
+71899203,Chennai,Soranjeri,Plot/Land,10850,n/a,n/a,n/a,n/a,₹ 44.6 Lac,4460,411
+73407693,Chennai,Velachery,Apartment,815,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 98 Lac,9800,12020
+74215173,Chennai,Siruseri,Plot/Land,816,n/a,n/a,n/a,n/a,₹ 32.6 Lac,3260,4000
+73798643,Chennai,Minjur,Plot/Land,900,n/a,n/a,n/a,n/a,₹ 12.4 Lac,1240,1375
+72434325,Chennai,Kaspapuram,Plot/Land,1447,n/a,n/a,n/a,n/a,₹ 50.5 Lac,5050,3490
+73630147,Chennai,Retteri,Plot/Land,710,n/a,n/a,n/a,n/a,₹ 8.9 Lac,890,1254
+73514813,Chennai,Vallakkottai,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 9.6 Lac,960,800
+73097685,Chennai,Nanganallur,Builder Floor,1501,3 BHK,Unfurnished,Resale,Ready to Move,₹ 2.27 Cr,22700,15123
+69979337,Chennai,Manapakkam,Plot/Land,2800,n/a,n/a,n/a,n/a,₹ 2.59 Cr,25900,9250
+73647423,Chennai,Medavakkam,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 46 Lac,4600,4600
+72090607,Chennai,Anugraha,Villa,1100,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.09 Cr,10900,7267
+74204505,Chennai,Perungalathur,Plot/Land,884,n/a,n/a,n/a,n/a,₹ 48.6 Lac,4860,5500
+74169889,Chennai,Iyyappanthangal,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 1.29 Cr,12900,7200
+72316021,Chennai,Iyyappanthangal,Builder Floor,679,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 67.7 Lac,6770,7000
+73354777,Chennai,Ponmar,Plot/Land,1800,n/a,n/a,n/a,n/a,₹ 57.6 Lac,5760,3200
+73404905,Chennai,Madhavaram,Plot/Land,750,n/a,n/a,n/a,n/a,₹ 15 Lac,1500,2000
+74250169,Chennai,Madipakkam,Apartment,840,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 71.3 Lac,7130,8295
+74310313,Chennai,Avadi,Plot/Land,701,n/a,n/a,n/a,n/a,₹ 20 Lac,2000,2850
+74278989,Chennai,Avadi,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 22.8 Lac,2280,2850
+72966479,Chennai,TNHB,Plot/Land,840,n/a,n/a,n/a,n/a,₹ 50.4 Lac,5040,6000
+74234733,Chennai,Akkarai,Plot/Land,3100,n/a,n/a,n/a,n/a,₹ 3.10 Cr,31000,10000
+74279913,Chennai,Chettipunyam,Plot/Land,1500,n/a,n/a,n/a,n/a,₹ 37.5 Lac,3750,2500
+72365395,Chennai,Akkarai,House,4000,4 BHK,Semi-Furnished,Resale,Ready to Move,₹ 7.25 Cr,72500,18125
+68896463,Chennai,Padur,Apartment,1000,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 39 Lac,3900,0
+74317933,Chennai,Nolambur,Apartment,1392,3 BHK,Semi-Furnished,Resale,Ready to Move,₹ 78.5 Lac,7850,5639
+72731943,Chennai,Ambattur,Apartment,795,2 BHK,Unfurnished,Resale,Ready to Move,₹ 50 Lac,5000,6289
+74265437,Chennai,Porur,Apartment,1755,4 BHK,Furnished,Resale,Ready to Move,₹ 2.85 Cr,28500,13243
+71413243,Chennai,Road,Apartment,2052,3 BHK,Furnished,Resale,Ready to Move,₹ 2.66 Cr,26600,0
+70687659,Chennai,Melanur,Plot/Land,1950,n/a,n/a,n/a,n/a,₹ 10.7 Lac,1070,550
+74259073,Chennai,Mambalam,Plot/Land,3920,n/a,n/a,n/a,n/a,₹ 7.50 Cr,75000,19133
+66107869,Chennai,Athipet,Plot/Land,1936,n/a,n/a,n/a,n/a,₹ 98 Lac,9800,5062
+74200705,Chennai,Lakshmipuram,Plot/Land,1200,n/a,n/a,n/a,n/a,₹ 80 Lac,8000,6667
+73915631,Chennai,Avadi,Plot/Land,1500,n/a,n/a,n/a,n/a,₹ 45 Lac,4500,3000
+67982969,Chennai,Thirumullaivoyal,Plot/Land,3440,n/a,n/a,n/a,n/a,₹ 1.25 Cr,12500,3634
+74263589,Chennai,Velachery,Apartment,850,2 BHK,Unfurnished,Resale,Ready to Move,₹ 80 Lac,8000,8421
+74264599,Chennai,Kattalai,Plot/Land,35000,n/a,n/a,n/a,n/a,₹ 22.09 Cr,220900,6314
+71922087,Chennai,Colony,Builder Floor,1008,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.39 Cr,13899,13790
+73094883,Chennai,Madambakkam,Plot/Land,1116,n/a,n/a,n/a,n/a,₹ 70 Lac,7000,6272
+74295141,Chennai,Villivakkam,Apartment,550,1 BHK,Semi-Furnished,Resale,Ready to Move,₹ 28 Lac,2800,5091
+73657637,Chennai,Kelambakkam,Plot/Land,800,n/a,n/a,n/a,n/a,₹ 38 Lac,3800,4750
+73645841,Chennai,Rd,Plot/Land,1000,n/a,n/a,n/a,n/a,₹ 21 Lac,2100,2100
+72449015,Chennai,Ayyapakkam,Plot/Land,2587,n/a,n/a,n/a,n/a,₹ 1.55 Cr,15500,6000
+60613481,Chennai,Siruseri,Plot/Land,1360,n/a,n/a,n/a,n/a,₹ 58 Lac,5800,4265
+74166783,Chennai,Nemilicheri,Plot/Land,510,n/a,n/a,n/a,n/a,₹ 16.3 Lac,1630,3200
+74116417,Chennai,South,Plot/Land,1158,n/a,n/a,n/a,n/a,₹ 71.8 Lac,7180,6200
+74137363,Chennai,Minjur,Plot/Land,5400,n/a,n/a,n/a,n/a,₹ 10.2 Lac,1019,189
+74141051,Chennai,Puzhal,Plot/Land,860,n/a,n/a,n/a,n/a,₹ 36.1 Lac,3610,4200
+72435353,Chennai,Navalur,Apartment,1000,2 BHK,Unfurnished,Resale,Ready to Move,₹ 85 Lac,8500,8500
+73943999,Chennai,Madambakkam,Apartment,1356,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.70 Cr,17000,9600
+72732367,Chennai,Kattupakkam,Plot/Land,2400,n/a,n/a,n/a,n/a,₹ 1.25 Cr,12500,5208
+74033285,Chennai,Kelambakkam,Plot/Land,916,n/a,n/a,n/a,n/a,₹ 32.1 Lac,3210,3499
+72180779,Chennai,Adyar,Builder Floor,1609,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 2.61 Cr,26100,16221
+74112129,Chennai,Perungudi,Plot/Land,1550,n/a,n/a,n/a,n/a,₹ 60.5 Lac,6050,3901
+74170077,Chennai,Pallikaranai,Apartment,957,2 BHK,Semi-Furnished,Resale,Ready to Move,₹ 53 Lac,5300,0
+72273789,Chennai,Kuppam,Apartment,1500,3 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 1.16 Cr,11600,6824
+73936855,Chennai,Kelambakkam,Villa,900,2 BHK,under construction,New Property,UNDER CONSTRUCTION,₹ 58.7 Lac,5870,6519
+73481885,Chennai,Thirumullaivoyal,Apartment,910,2 BHK,Unfurnished,Resale,Ready to Move,₹ 42 Lac,4200,4615
+73516849,Chennai,Manapakkam,Apartment,950,2 BHK,Unfurnished,Resale,Ready to Move,₹ 72 Lac,7200,6261
+74064069,Chennai,Alandur,Apartment,1797,4 BHK,Semi-Furnished,Resale,Ready to Move,₹ 3.30 Cr,33000,12850
